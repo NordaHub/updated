@@ -1,0 +1,17 @@
+/* Text Elements */
+
+.appspot {
+    align-items: center;
+
+}
+
+h2 span.app-p{
+    display: inline-block;
+    text-align: center;
+    font-weight: 700;
+    margin: 350px;
+    padding: 0;
+    color: var(--text-color);
+    --text-color: #000000; /* Default text color */
+    font-family: 'Archivo', sans-serif;
+}
